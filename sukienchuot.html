@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>su kien chuot</title>
+</head>
+<body>
+<img style="position: absolute; top:50px;left:0px" id="anh" src="http://dragonballwiki.net/wp-content/uploads/2017/09/tumblr_ofm819GRbU1r72ht7o1_500.gif">
+<button onclick="bam1()">sang Phải</button>
+<button onclick="bam2()">sang trái</button>
+<script>
+    let songoku=document.getElementById("anh");
+    function bam1(){
+        songoku.style.left=parseInt(songoku.style.left) + 15 + 'px';
+    }
+    function bam2() {
+        songoku.style.left = parseInt(songoku.style.left) - 15 + 'px';
+    }
+</script>
+</body>
+</html>
