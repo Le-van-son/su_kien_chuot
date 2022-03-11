@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>xep loại học sinh</title>
+</head>
+<body>
+<input type="number" id="diemkt">
+<input type="number" id="diemgk">
+<input type="number" id="diemck">
+<button onclick="bam()">bam</button>
+<h1 id="hienthi"> hss</h1>
+<script>
+    function bam(){
+    let kt= +document.getElementById('diemkt').value;
+    let gk= +document.getElementById('diemgk').value;
+    let ck= +document.getElementById('diemck').value;
+    let tb= ((+kt + +gk*2 + +ck*3)/3)
+    if(tb < 5)
+        document.getElementById("hienthi").innerHTML= "Xếp loại kem"
+    }
+
+
+</script>
+</body>
+</html>
