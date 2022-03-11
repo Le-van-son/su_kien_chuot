@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<img id="anh" style=" width: 300px; position: absolute;top: 0;left: 0" src="https://thuthuatnhanh.com/wp-content/uploads/2020/09/anh-avatar-doremon-dep-nhat.jpg">
+<script>
+    let a = document.getElementById("anh")
+    window.addEventListener("keydown",(evt) ={
+         (evt.keyCode==37){
+            a.style.left=parseInt(a.style.left) -10 +"px"
+        }
+    })
+</script>
+
+</body>
+</html>
