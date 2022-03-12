@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Monkey jump</title>
+</head>
+<body>
+<img  src="https://monkeymedia.vcdn.com.vn/upload/web/img_default/monkey3.png" id="khi" style=" width:100px; position: absolute;top:50px;left: 50px">
+<button onclick="bam()">nhảy</button>
+<script>
+let a = document.getElementById("khi")
+function bam(){
+    a.style.top = parseInt(a.style.top) - 50 + 'px';
+}
+</script>
+</body>
+</html>

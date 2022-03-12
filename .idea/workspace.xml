@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63706f54-da5b-468d-a7b7-5d1b2fba74d5" name="Changes" comment="" />
+    <list default="true" id="63706f54-da5b-468d-a7b7-5d1b2fba74d5" name="Changes" comment="">
+      <change afterPath="E:/Sự kiện chuột/doyouloveme.html" afterDir="false" />
+      <change beforePath="E:/Sự kiện chuột/.idea/workspace.xml" beforeDir="false" afterPath="E:/Sự kiện chuột/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/Sự kiện chuột/nhaptuoihs.html" beforeDir="false" afterPath="E:/Sự kiện chuột/nhaptuoihs.html" afterDir="false" />
+      <change beforePath="E:/Sự kiện chuột/sukien_banphim.html" beforeDir="false" afterPath="E:/Sự kiện chuột/sukien_banphim.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/Sự kiện chuột" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/maytinh/maytinh.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,11 +47,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646973429727</updated>
-      <workItem from="1646973430795" duration="14705000" />
+      <workItem from="1646973430795" duration="15917000" />
+      <workItem from="1647050289447" duration="3978000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

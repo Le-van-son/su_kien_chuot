@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>do you love me</title>
+</head>
+<body background="https://64.media.tumblr.com/96d9185981e22c9959d286ae6a3e2191/tumblr_mv0v3x2iyl1rg61o6o1_500.gifv" style="background-size: cover">
+<h2 style="color: yellowgreen"> Do you love me? </h2>
+<button id="khong" style="position: absolute; top: 200px;left: 200px" onmouseover="bam1()">No</button>
+<button id="co1" style="position: absolute; top: 200px;left: 150px" onmouseover="bam2()">Yess</button>
+<script>
+    let kh = document.getElementById("khong")
+    function bam1(){
+        kh.style.left= Math.random()*500 + 50 + "px"
+        kh.style.top=  Math.random()*300 + 50 + "px"
+
+    }
+    function bam2(){
+        alert("Không đâu")
+    }
+
+</script>
+</body>
+</html>
