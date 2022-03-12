@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63706f54-da5b-468d-a7b7-5d1b2fba74d5" name="Changes" comment="">
-      <change afterPath="E:/Sự kiện chuột/doyouloveme.html" afterDir="false" />
+      <change afterPath="E:/Sự kiện chuột/hoahong_banhang.html" afterDir="false" />
       <change beforePath="E:/Sự kiện chuột/.idea/workspace.xml" beforeDir="false" afterPath="E:/Sự kiện chuột/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="E:/Sự kiện chuột/nhaptuoihs.html" beforeDir="false" afterPath="E:/Sự kiện chuột/nhaptuoihs.html" afterDir="false" />
-      <change beforePath="E:/Sự kiện chuột/sukien_banphim.html" beforeDir="false" afterPath="E:/Sự kiện chuột/sukien_banphim.html" afterDir="false" />
+      <change beforePath="E:/Sự kiện chuột/cautruc_dk01.html" beforeDir="false" afterPath="E:/Sự kiện chuột/cautruc_dk01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646973429727</updated>
       <workItem from="1646973430795" duration="15917000" />
-      <workItem from="1647050289447" duration="3978000" />
+      <workItem from="1647050289447" duration="7980000" />
     </task>
     <servers />
   </component>

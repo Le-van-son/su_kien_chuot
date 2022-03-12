@@ -5,13 +5,18 @@
     <title>cautrucdk1</title>
 </head>
 <body>
+<input id="nhap1">
+<input id="nhap2">
+<button onclick="bam()">ấn</button>
 <script>
-    a= prompt('nhap a')
-    b= prompt('nhap b')
+    function bam(){
+    let a= document.getElementById("nhap1").value
+    let b= document.getElementById("nhap2").value
     if (a%b==0)
-        alert(+a +' chia het cho ' +b)
+        document.write(+a +' chia het cho ' +b)
     else
-        alert(+a +' Không chia het cho ' +b)
+        document.write(+a +' Không chia het cho ' +b)
+    }
 </script>
 
 </body>

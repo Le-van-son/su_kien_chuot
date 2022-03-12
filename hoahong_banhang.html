@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hoahong</title>
+</head>
+<body>
+<input id="nhap1">
+<button onclick="bam()">tinh</button>
+</body>
+<script>
+
+
+function bam(){
+    let ds = +document.getElementById("nhap1").value
+    let hh1 = ds*0.05
+    let hh2 = ds*0.1
+    let hh3 = ds*0.15
+    if(ds < 20000000){
+        document.write("" + hh1)
+    }
+    else if(ds <= 50000000){
+        document.write("" + hh2)
+    }
+    else
+        document.write("" + hh3)
+}
+
+</script>
+</html>
